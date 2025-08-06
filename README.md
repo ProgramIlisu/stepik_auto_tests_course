@@ -1,1 +1,1 @@
-Перейди в master ветку там файл selenium_course
+Здесь в файле selenium_course ты найдешь файлы с проектами
